@@ -247,48 +247,6 @@ main = do
 
 ## Output
 
-Question 1: add_and_double
-
-Result: 14
-
-Question 2: solve_quadratic_equation
-
-Result: (2.0,1.0)
-
-Question 3: isPerfect
-
-Result: True
-
-Question 4: nextPerfect
-
-Result: Just 28
-
-Question 5: partitioned
-
-Result: False
-
-Result: True
-
-Result: False
-
-Result: True
-
-Result: True
-
-Result: False
-
-
-Question 6: connected
-
-Result: True
-
-Result: False
-
-Result: True
-
-Result: False
-
-Done.
-
+![Output](/haskell.png)
 
 Alter the inputs in code of desired function to get desired output answer.
